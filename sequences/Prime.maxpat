@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 59.0, 80.0, 640.0, 506.0 ],
+		"rect" : [ 134.0, 159.0, 640.0, 506.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -103,8 +103,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 15.0, 645.0, 116.0, 22.0 ],
-					"text" : "print prime-numbers"
+					"patching_rect" : [ 15.0, 645.0, 121.0, 22.0 ],
+					"text" : "print prime-sequence"
 				}
 
 			}
